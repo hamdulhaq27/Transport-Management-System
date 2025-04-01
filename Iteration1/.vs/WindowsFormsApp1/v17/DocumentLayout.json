@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University Work\\Semester 4\\FSE\\you know\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{874364C5-4863-40C6-9C75-1B6D042220AC}|..\\Assignments\\Assignment 2\\haidershahfse\\WindowsFormsApp1.csproj|d:\\university work\\semester 4\\fse\\assignments\\assignment 2\\haidershahfse\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874364C5-4863-40C6-9C75-1B6D042220AC}|..\\Assignments\\Assignment 2\\haidershahfse\\WindowsFormsApp1.csproj|d:\\university work\\semester 4\\fse\\assignments\\assignment 2\\haidershahfse\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874364C5-4863-40C6-9C75-1B6D042220AC}|..\\Assignments\\Assignment 2\\haidershahfse\\WindowsFormsApp1.csproj|d:\\university work\\semester 4\\fse\\assignments\\assignment 2\\haidershahfse\\otp_generation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874364C5-4863-40C6-9C75-1B6D042220AC}|..\\Assignments\\Assignment 2\\haidershahfse\\WindowsFormsApp1.csproj|d:\\university work\\semester 4\\fse\\assignments\\assignment 2\\haidershahfse\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874364C5-4863-40C6-9C75-1B6D042220AC}|WindowsFormsApp1.csproj|d:\\university work\\semester 4\\fse\\assignments\\assignment 2\\haidershahfse\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874364C5-4863-40C6-9C75-1B6D042220AC}|..\\Assignments\\Assignment 2\\haidershahfse\\WindowsFormsApp1.csproj|d:\\university work\\semester 4\\fse\\assignments\\assignment 2\\haidershahfse\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{874364C5-4863-40C6-9C75-1B6D042220AC}|..\\Assignments\\Assignment 2\\haidershahfse\\WindowsFormsApp1.csproj|d:\\university work\\semester 4\\fse\\assignments\\assignment 2\\haidershahfse\\landingpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\University Work\\Semester 4\\FSE\\Assignments\\Assignment 2\\haidershahfse\\Home.cs",
+              "RelativeDocumentMoniker": "..\\Assignments\\Assignment 2\\haidershahfse\\Home.cs",
+              "ToolTip": "D:\\University Work\\Semester 4\\FSE\\Assignments\\Assignment 2\\haidershahfse\\Home.cs [Design]",
+              "RelativeToolTip": "..\\Assignments\\Assignment 2\\haidershahfse\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:40:20.637Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OTP_Generation.cs [Design]",
+              "DocumentMoniker": "D:\\University Work\\Semester 4\\FSE\\Assignments\\Assignment 2\\haidershahfse\\OTP_Generation.cs",
+              "RelativeDocumentMoniker": "..\\Assignments\\Assignment 2\\haidershahfse\\OTP_Generation.cs",
+              "ToolTip": "D:\\University Work\\Semester 4\\FSE\\Assignments\\Assignment 2\\haidershahfse\\OTP_Generation.cs [Design]",
+              "RelativeToolTip": "..\\Assignments\\Assignment 2\\haidershahfse\\OTP_Generation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:36:55.929Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\University Work\\Semester 4\\FSE\\Assignments\\Assignment 2\\haidershahfse\\Login.cs",
+              "RelativeDocumentMoniker": "..\\Assignments\\Assignment 2\\haidershahfse\\Login.cs",
+              "ToolTip": "D:\\University Work\\Semester 4\\FSE\\Assignments\\Assignment 2\\haidershahfse\\Login.cs [Design]",
+              "RelativeToolTip": "..\\Assignments\\Assignment 2\\haidershahfse\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:40:11.876Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "D:\\University Work\\Semester 4\\FSE\\Assignments\\Assignment 2\\haidershahfse\\SignUp.cs",
+              "RelativeDocumentMoniker": "..\\Assignments\\Assignment 2\\haidershahfse\\SignUp.cs",
+              "ToolTip": "D:\\University Work\\Semester 4\\FSE\\Assignments\\Assignment 2\\haidershahfse\\SignUp.cs [Design]",
+              "RelativeToolTip": "..\\Assignments\\Assignment 2\\haidershahfse\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T13:40:06.523Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LandingPage.cs [Design]",
+              "DocumentMoniker": "D:\\University Work\\Semester 4\\FSE\\Assignments\\Assignment 2\\haidershahfse\\LandingPage.cs",
+              "RelativeDocumentMoniker": "..\\Assignments\\Assignment 2\\haidershahfse\\LandingPage.cs",
+              "ToolTip": "D:\\University Work\\Semester 4\\FSE\\Assignments\\Assignment 2\\haidershahfse\\LandingPage.cs [Design]",
+              "RelativeToolTip": "..\\Assignments\\Assignment 2\\haidershahfse\\LandingPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:36:53.442Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "changePassword.cs [Design]",
+              "DocumentMoniker": "D:\\University Work\\Semester 4\\FSE\\Assignments\\Assignment 2\\haidershahfse\\changePassword.cs",
+              "RelativeDocumentMoniker": "..\\Assignments\\Assignment 2\\haidershahfse\\changePassword.cs",
+              "ToolTip": "D:\\University Work\\Semester 4\\FSE\\Assignments\\Assignment 2\\haidershahfse\\changePassword.cs [Design]",
+              "RelativeToolTip": "..\\Assignments\\Assignment 2\\haidershahfse\\changePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:36:51.345Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\University Work\\Semester 4\\FSE\\Assignments\\Assignment 2\\haidershahfse\\Login.cs",
+              "RelativeDocumentMoniker": "..\\Assignments\\Assignment 2\\haidershahfse\\Login.cs",
+              "ToolTip": "D:\\University Work\\Semester 4\\FSE\\Assignments\\Assignment 2\\haidershahfse\\Login.cs [Design]",
+              "RelativeToolTip": "..\\Assignments\\Assignment 2\\haidershahfse\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:10:21.935Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

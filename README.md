@@ -66,14 +66,14 @@ Each user story was implemented to improve usability and functionality:
 
 ## 🛠 Design Diagrams
 
-- ![Class Diagram](Images/page10_img1.png)
-- ![Use Case Diagram](Images/page11_img1.png)
-- ![Activity Diagram - Profile](Images/page12_img1.png)
-- ![Activity Diagram - Fee Details](Images/page13_img1.png)
-- ![Activity Diagram - Generate PDF](Images/page14_img1.png)
-- ![Sequence Diagram - Notification](Images/page15_img1.png)
-- ![Sequence Diagram - Reservation](Images/page15_img2.png)
-- ![Sequence Diagram - Authentication](Images/page16_img1.png)
+- ![Class Diagram](Images/page16_img1.png)
+- ![Use Case Diagram](Images/page17_img1.png)
+- ![Activity Diagram - Profile](Images/page18_img1.png)
+- ![Activity Diagram - Fee Details](Images/page19_img1.png)
+- ![Activity Diagram - Generate PDF](Images/page20_img1.png)
+- ![Sequence Diagram - Notification](Images/page21_img1.png)
+- ![Sequence Diagram - Reservation](Images/page21_img2.png)
+- ![Sequence Diagram - Authentication](Images/page22_img1.png)
 
 ---
 
@@ -86,27 +86,27 @@ Each user story was implemented to improve usability and functionality:
 - **Models (Data):** Represent users, routes, buses, reservations, fees, and feedback  
 - **Services:** Notification and Report generation  
 
-![MVC Architecture](Images/page19_img1.jpeg)
+![MVC Architecture](Images/page25_img1.jpeg)
 
 ---
 
 ## 📷 UI Snapshots
 
-- ![Landing Page](Images/page20_img1.jpeg)
-- ![Sign Up and Login](Images/page21_img1.png)
-- ![Reset and Change Password](Images/page22_img1.png)
-- ![Dashboard and Profile](Images/page23_img1.png)
-- ![Route Selection and Status](Images/page24_img1.png)
-- ![Seat Reservation and Fee Details](Images/page25_img1.png)
-- ![Fee Challan Generation](Images/page26_img1.png)
-- ![Schedules and Feedback](images/page27_img1.png)
-- ![Contact Us and FAQ](Images/page28_img1.png)
+- ![Landing Page](Images/page26_img1.jpeg)
+- ![Sign Up and Login](Images/page27_img1.png)
+- ![Reset and Change Password](Images/page27_img1.png)
+- ![Dashboard and Profile](Images/page28_img1.png)
+- ![Route Selection and Status](Images/page28_img2.png)
+- ![Seat Reservation and Fee Details](Images/page29_img1.png)
+- ![Fee Challan Generation](Images/page29_img2.png)
+- ![Schedules and Feedback](images/page30_img1.png)
+- ![Contact Us and FAQ](Images/page30_img2.png)
 
 ---
 
 ## 📉 Product Burn Down Chart
 
-![Burn Down Chart](Images/page30_img1.jpeg)
+![Burn Down Chart](Images/page31_img1.jpeg)
 
 ---
 

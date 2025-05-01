@@ -69,7 +69,7 @@ Each user story was implemented to improve usability and functionality:
 - ![Class Diagram](Images/page16_img1.png)
 - ![Use Case Diagram](Images/page17_img1.png)
 - ![Activity Diagram - Profile](Images/page18_img1.png)
-- ![Activity Diagram - Fee Details](Images/page19_img1.png)
+- ![Activity Diagram - Fee Details](Images/page19_img1.jpeg)
 - ![Activity Diagram - Generate PDF](Images/page20_img1.png)
 - ![Sequence Diagram - Notification](Images/page21_img1.png)
 - ![Sequence Diagram - Reservation](Images/page21_img2.png)

@@ -66,14 +66,11 @@ Each user story was implemented to improve usability and functionality:
 
 ## 🛠 Design Diagrams
 
-- ![Class Diagram](Images/page16_img1.png)
-- ![Use Case Diagram](Images/page17_img1.png)
-- ![Activity Diagram - Profile](Images/page18_img1.png)
-- ![Activity Diagram - Fee Details](Images/page19_img1.jpeg)
-- ![Activity Diagram - Generate PDF](Images/page20_img1.png)
-- ![Sequence Diagram - Notification](Images/page21_img1.png)
-- ![Sequence Diagram - Reservation](Images/page21_img2.png)
-- ![Sequence Diagram - Authentication](Images/page22_img1.png)
+The system is structured with:
+- **Class Diagram**
+- **Use Case Diagram**
+- **Activity Diagrams** for profile editing, fee viewing, and challan generation  
+- **Sequence Diagrams** for notifications, reservations, and login  
 
 ---
 
@@ -86,35 +83,32 @@ Each user story was implemented to improve usability and functionality:
 - **Models (Data):** Represent users, routes, buses, reservations, fees, and feedback  
 - **Services:** Notification and Report generation  
 
-![MVC Architecture](Images/page25_img1.jpeg)
-
 ---
 
 ## 📷 UI Snapshots
 
-- ![Landing Page](Images/page26_img1.jpeg)
-- ![Sign Up and Login](Images/page27_img1.png)
-- ![Reset and Change Password](Images/page27_img1.png)
-- ![Dashboard and Profile](Images/page28_img1.png)
-- ![Route Selection and Status](Images/page28_img2.png)
-- ![Seat Reservation and Fee Details](Images/page29_img1.png)
-- ![Fee Challan Generation](Images/page29_img2.png)
-- ![Schedules and Feedback](images/page30_img1.png)
-- ![Contact Us and FAQ](Images/page30_img2.png)
+Included screenshots of the complete app, such as:
+
+- Landing, Login, and Signup Pages  
+- Dashboard, Profile, and Route Status  
+- Seat Reservation, Fee Details, Challan Generation  
+- Schedule, Feedback, Contact Us, and FAQ Pages  
 
 ---
 
 ## 📉 Product Burn Down Chart
 
-![Burn Down Chart](Images/page31_img1.jpeg)
+A visual tool showing the progress of completed versus pending features throughout the sprints.
 
 ---
 
 ## 🧾 Sprint Workflow via Scrum Board
 
-- ![Sprint Planning](Images/page31_img1.png)
-- ![Mid-Sprint Progress](Images/page32_img1.png)
-- ![Sprint Completion](Images/page33_img1.png)
+Illustrates sprint phases:
+
+- Planning  
+- Active development  
+- Testing and completion  
 
 ---
 
@@ -145,5 +139,5 @@ Implemented for:
 - Emphasis on **user-centric** design for smooth interactions  
 - Value of **team collaboration** and effective communication  
 - Role of **thorough testing and debugging**  
-- Continuous learning throughout development  
+- Continuous learning throughout development 
 
